@@ -1,0 +1,14 @@
+# Configuration
+wp-config.php
+
+# Log files
+logs
+*.log
+
+# htaccess
+/app/public/.htaccess
+
+#SQL file
+/app/sql/local.sql
+
+.DS_Store
