@@ -8,7 +8,7 @@
   <p align="center">
     Headless Commerce Backend
     <br />
-    <a href="https://github.com/khatri7/mytry-next-app"><strong>NextJS Frontend App »</strong></a>
+    <a href="https://github.com/khatri7/mytry-next-app"><strong>Next.js Frontend App »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/khatri7/mytry-next-app">View Demo</a> -->
